@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kimchi-premium-page/static/css/main.ed70029d.css",
+    "main.js": "/kimchi-premium-page/static/js/main.80d3ace3.js",
+    "static/js/453.797f577d.chunk.js": "/kimchi-premium-page/static/js/453.797f577d.chunk.js",
+    "index.html": "/kimchi-premium-page/index.html",
+    "main.ed70029d.css.map": "/kimchi-premium-page/static/css/main.ed70029d.css.map",
+    "main.80d3ace3.js.map": "/kimchi-premium-page/static/js/main.80d3ace3.js.map",
+    "453.797f577d.chunk.js.map": "/kimchi-premium-page/static/js/453.797f577d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed70029d.css",
+    "static/js/main.80d3ace3.js"
+  ]
+}
